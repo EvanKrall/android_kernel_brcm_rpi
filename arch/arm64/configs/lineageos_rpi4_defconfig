@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/arm64 5.15.148 Kernel Configuration
+# Linux/arm64 5.15.149 Kernel Configuration
 #
 CONFIG_CC_VERSION_TEXT="Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6)"
 CONFIG_GCC_VERSION=0
@@ -3313,7 +3313,6 @@ CONFIG_STMPE_SPI=y
 # end of STMicroelectronics STMPE Interface Drivers
 
 CONFIG_MFD_SYSCON=y
-# CONFIG_MFD_TI_AM335X_TSCADC is not set
 # CONFIG_MFD_LP3943 is not set
 # CONFIG_MFD_LP8788 is not set
 # CONFIG_MFD_TI_LMU is not set
