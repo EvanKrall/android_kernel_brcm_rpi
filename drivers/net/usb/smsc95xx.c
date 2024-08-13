@@ -79,10 +79,6 @@ static bool turbo_mode = true;
 module_param(turbo_mode, bool, 0644);
 MODULE_PARM_DESC(turbo_mode, "Enable multiple frames per Rx transaction");
 
-static bool truesize_mode = false;
-module_param(truesize_mode, bool, 0644);
-MODULE_PARM_DESC(truesize_mode, "Report larger truesize value");
-
 static int packetsize = 2560;
 module_param(packetsize, int, 0644);
 MODULE_PARM_DESC(packetsize, "Override the RX URB packet size");
