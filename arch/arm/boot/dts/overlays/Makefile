@@ -199,6 +199,7 @@ dtbo-$(CONFIG_ARCH_BCM2835) += \
 	pifi-dac-zero.dtbo \
 	pifi-mini-210.dtbo \
 	piglow.dtbo \
+	pipad-touchscreen.dtbo \
 	piscreen.dtbo \
 	piscreen2r.dtbo \
 	pisound.dtbo \
@@ -310,6 +311,7 @@ dtbo-$(CONFIG_ARCH_BCM2835) += \
 	vc4-kms-dsi-lt070me05000.dtbo \
 	vc4-kms-dsi-lt070me05000-v2.dtbo \
 	vc4-kms-dsi-waveshare-panel.dtbo \
+	vc4-kms-dsi-ti-sn65dsi83.dtbo \
 	vc4-kms-kippah-7inch.dtbo \
 	vc4-kms-v3d.dtbo \
 	vc4-kms-v3d-pi4.dtbo \
